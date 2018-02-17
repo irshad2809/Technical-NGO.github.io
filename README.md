@@ -1,4 +1,3 @@
-# Technical-NGO
+# Irsh
 
-
-Place-holder landing page while the original one is in development..
+https://irshad2809.github.io/Technical-NGO.github.io/ see live
